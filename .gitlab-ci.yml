@@ -1,4 +1,3 @@
-
 include:
   - project: "backend-architecture-and-scalability/glow-devops"
     ref: "ci/v1.0.4"

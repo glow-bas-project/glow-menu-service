@@ -1,6 +1,7 @@
 plugins {
     id 'java'
     id 'io.quarkus'
+    id 'com.glow.local-env'
 }
 
 repositories {
